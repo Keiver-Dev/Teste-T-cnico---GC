@@ -1,3 +1,4 @@
+//Qual será o valor final de notificacoes? 
 
 int notificacoes = 0;
 

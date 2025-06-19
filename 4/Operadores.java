@@ -1,3 +1,5 @@
+//Controle de fluxo e operadores O que será impresso?
+
 int prioridade = 4;
 int urgencia = 8;
 

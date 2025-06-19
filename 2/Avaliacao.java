@@ -1,3 +1,5 @@
+//Plataforma de estudos: Qual será a saída?
+
 public class Avaliacao {
     public static void main(String[] args) {
         int nota = 7;

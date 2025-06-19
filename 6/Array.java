@@ -1,3 +1,5 @@
+//Qual será a saída?
+
 ArrayList<String> horarios = new ArrayList<>();
 horarios.add("08:00");   // índice 0
 horarios.add("10:00");   // índice 1

@@ -1,3 +1,5 @@
+//Ordenação de tarefas com Comparable Qual será a saída após a ordenação?
+
 public class Tarefa implements Comparable<Tarefa> {
     String titulo;
 

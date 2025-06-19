@@ -1,3 +1,5 @@
+//Uso de for com filtro: Qual será a saída? 
+
 ArrayList<String> tarefas new ArrayList<>();
 tarefas.add("Estudar Java");
 tarefas.add("Fazer exercícios");
